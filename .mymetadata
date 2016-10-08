@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="WordPaster2TinyMCE4x"
+  id="myeclipse.1384067221335"
+  context-root="/WordPasterTinyMCE4x"
+  j2ee-spec="5.0"
+  archive="WordPaster2TinyMCE4x.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
