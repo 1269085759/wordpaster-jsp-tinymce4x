@@ -3,7 +3,7 @@
   type="WEB"
   name="WordPaster2TinyMCE4x"
   id="myeclipse.1384067221335"
-  context-root="/WordPasterTinyMCE4x"
+  context-root="/WordPaster2TinyMCE4x"
   j2ee-spec="5.0"
   archive="WordPaster2TinyMCE4x.war">
   <attributes>
